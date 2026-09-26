@@ -9,12 +9,12 @@ Table of Content
 
 # SD 1.5
 
-SD 1.5 workflows can be found in [sd15 directory](./sd15/)
+SD 1.5 workflows can be found in [sd15 directory](./sd15/README.md)
 
 # SDXL
 
-SDXL workflows can be found in [sdxl directory](./sdxl/)
+SDXL workflows can be found in [sdxl directory](./sdxl/README.md)
 
 # Flux
 
-Flux workflows can be found in [flux directory](./flux/)
+Flux workflows can be found in [flux directory](./flux/README.md)
